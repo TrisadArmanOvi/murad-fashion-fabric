@@ -1,0 +1,50 @@
+[
+  {
+    "id": "p1",
+    "name": "জিন্স প্যান্ট কালেকশন",
+    "category": "জিন্স",
+    "price": "",
+    "description": "সাইজ, রং ও স্টক জানতে যোগাযোগ করুন।",
+    "image": "assets/jeans-hanging.jpg"
+  },
+  {
+    "id": "p2",
+    "name": "ডেনিম জিন্স কালেকশন",
+    "category": "জিন্স",
+    "price": "",
+    "description": "সাইজ, রং ও স্টক জানতে যোগাযোগ করুন।",
+    "image": "assets/denim-stack-closeup.jpg"
+  },
+  {
+    "id": "p3",
+    "name": "মেনস ডেনিম প্যান্ট",
+    "category": "জিন্স",
+    "price": "",
+    "description": "সাইজ, রং ও স্টক জানতে যোগাযোগ করুন।",
+    "image": "assets/folded-jeans-stack.jpg"
+  },
+  {
+    "id": "p4",
+    "name": "দোকানের জিন্স কালেকশন",
+    "category": "জিন্স",
+    "price": "",
+    "description": "পাইকারি ও খুচরা বিক্রয়।",
+    "image": "assets/denim-shop-display.jpg"
+  },
+  {
+    "id": "p5",
+    "name": "মেনস টি-শার্ট",
+    "category": "টি-শার্ট",
+    "price": "",
+    "description": "সাইজ ও রং জানতে যোগাযোগ করুন।",
+    "image": "assets/mens-tshirt-model.jpg"
+  },
+  {
+    "id": "p6",
+    "name": "ক্যাজুয়াল শার্ট ও টি-শার্ট",
+    "category": "শার্ট",
+    "price": "",
+    "description": "নতুন কালেকশন সম্পর্কে জানতে যোগাযোগ করুন।",
+    "image": "assets/mens-tshirt-model.jpg"
+  }
+]
